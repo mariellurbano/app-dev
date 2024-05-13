@@ -10,3 +10,6 @@ Mean Girls features a memorable cast of characters, including:
 - **Cady Heron**: A homeschooled student who navigates the social hierarchy of North Shore High School.
 - **Regina George**: The popular but manipulative leader of the Plastics, known for her iconic catchphrases and mean girl antics.
 - **Janis Ian**: An outsider who befriends Cady and seeks revenge against Regina for past wrongs.
+
+## Themes
+Beneath its comedic surface, Mean Girls explores themes of friendship, betrayal, and the pressures of fitting in. It highlights the absurdity of high school cliques and the importance of staying true to oneself.
