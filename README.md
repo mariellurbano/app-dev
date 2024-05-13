@@ -13,3 +13,11 @@ Mean Girls features a memorable cast of characters, including:
 
 ## Themes
 Beneath its comedic surface, Mean Girls explores themes of friendship, betrayal, and the pressures of fitting in. It highlights the absurdity of high school cliques and the importance of staying true to oneself.
+
+## Plot Twists
+Mean Girls is filled with hilarious moments and unexpected plot twists, such as:
+- The Burn Book: A gossip-filled notebook that causes chaos when its contents are leaked to the entire school.
+- The Spring Fling: A climactic school dance where secrets are revealed and friendships are tested.
+
+## Conclusion
+Mean Girls continues to resonate with audiences of all ages due to its sharp writing, memorable characters, and timeless humor. It has become a cultural phenomenon, inspiring quotes, memes, and even a Broadway musical adaptation.
